@@ -1,0 +1,1 @@
+# Mini_Sistema_de_Vendas_Terminal_Python
